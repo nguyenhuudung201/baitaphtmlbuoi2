@@ -1,0 +1,30 @@
+h1{
+    background-color:yellow;
+    color:hotpink;
+    text-decoration:underline;
+
+}
+img{
+    float:right;
+}
+p{
+    font-size: 26px;
+    font-style: italic;
+    background-color: #faebd7;
+}
+table{
+    font-size: 26px;
+    font-style: italic;
+    background-color: #faebd7;
+
+}
+ul{
+    font-size: 26px;
+    font-style: italic;
+    background-color: #faebd7;
+}
+ol{
+    font-size: 26px;
+    font-style: italic;
+    background-color: #faebd7;
+}
